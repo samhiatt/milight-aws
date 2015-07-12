@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/samhiatt/milight-aws",
   "dependencies": {
+    "aws-sdk": "^2.1.38",
     "node-milight": "git://github.com/samhiatt/node-milight"
   }
 }
