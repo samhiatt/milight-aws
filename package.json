@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/samhiatt/milight-aws/issues"
   },
-  "homepage": "https://github.com/samhiatt/milight-aws"
+  "homepage": "https://github.com/samhiatt/milight-aws",
+  "dependencies": {
+    "node-milight": "git://github.com/samhiatt/node-milight"
+  }
 }
