@@ -25,6 +25,7 @@
   "homepage": "https://github.com/samhiatt/milight-aws",
   "dependencies": {
     "aws-sdk": "^2.1.38",
+    "dotenv": "^1.2.0",
     "node-milight": "git://github.com/samhiatt/node-milight"
   }
 }
