@@ -1,0 +1,26 @@
+{
+  "name": "milight-aws",
+  "version": "0.0.0",
+  "description": "Components for controlling milights with AWS SQS, Lambda, Echo/Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samhiatt/milight-aws"
+  },
+  "keywords": [
+    "milight",
+    "aws",
+    "sqs",
+    "lambda",
+    "echo"
+  ],
+  "author": "Sam Hiatt samhiatt@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samhiatt/milight-aws/issues"
+  },
+  "homepage": "https://github.com/samhiatt/milight-aws"
+}
