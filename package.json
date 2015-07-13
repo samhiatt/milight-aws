@@ -26,6 +26,7 @@
   "dependencies": {
     "aws-sdk": "^2.1.38",
     "dotenv": "^1.2.0",
-    "node-milight": "git://github.com/samhiatt/node-milight"
+    "node-milight": "git://github.com/samhiatt/node-milight",
+    "promise": "^7.0.3"
   }
 }
